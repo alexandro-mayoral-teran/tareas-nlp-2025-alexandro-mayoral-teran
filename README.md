@@ -6,5 +6,5 @@ En este repositorio se colocaran las actividades semana a semana de la materia d
 
 ## Actividades:
 
-* [Semana 2]()
+* [Semana 2](https://github.com/alexandro-mayoral-teran/tareas-nlp-2025-alexandro-mayoral-teran/tree/main/Semana-02)
 
